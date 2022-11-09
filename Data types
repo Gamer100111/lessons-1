@@ -1,0 +1,20 @@
+/Переменные\
+1-var-var мы не используем вместо var let
+2-let
+3-const
+
+
+
+
+
+/Типы данных\
+<ul>
+	<li>number-Число</li>
+	<li>bigint-Большое число
+	<li>boolean true/false-Истина</li>
+	<li>string-Строка</li>, Ложь</li>
+	<li>null</li>
+	<li>undefined</li>
+	<li>symbol</li>
+	<li>object</li>
+</ul>
